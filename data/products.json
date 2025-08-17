@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Red T-Shirt",
+    "price": 499,
+    "image": "https://via.placeholder.com/300x220?text=Red+T-Shirt",
+    "description": "Comfortable cotton red t-shirt"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "price": 1199,
+    "image": "https://via.placeholder.com/300x220?text=Blue+Jeans",
+    "description": "Stylish denim blue jeans"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 1999,
+    "image": "https://via.placeholder.com/300x220?text=Running+Shoes",
+    "description": "Lightweight running shoes for everyday use"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 899,
+    "image": "https://via.placeholder.com/300x220?text=Backpack",
+    "description": "Durable backpack with multiple compartments"
+  }
+]
